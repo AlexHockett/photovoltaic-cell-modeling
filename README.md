@@ -144,7 +144,7 @@ The following analysis of the model’s results presents numerous graphs of vari
 
    ### Cell efficiency vs. intensity at multiple internal temperatures
 
-![Figure 4](Figures/figure_3.png)
+![Figure 4](Figures/figure_4.png)
 
 The graph in Figure 4 reflects a trend of increased cell efficiency percentages at higher intensities of incoming light. As more photons strike the cell, the semiconductor material is able to convert a greater portion of those photons into charge carriers. However, as intensity increases, the increase in efficiency occurs at a lower rate.
 
